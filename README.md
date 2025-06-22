@@ -13,3 +13,5 @@ Performed and Runned 10 kinds of analysis & EDA with Power BI.
 8) Extracting just the first item
 9) Text / Sentiment Analysis
 10) Filtering unnecessary data (rows or columns)
+
+Dataset link: https://www.kaggle.com/datasets/shivamb/netflix-shows/data
